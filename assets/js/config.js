@@ -2,7 +2,7 @@
 window.RTC_CONFIG = {
   apiBase: '',
   // Static hosting without the Python server: Web3Forms access key (public by design). Leave empty to disable.
-  web3formsKey: '',
+  web3formsKey: '00f2cd3b-3e85-4c0e-a549-ea15e9bb57ba',
   // Static preview only. Encoding is not encryption; clear this value when using the server.
   draftRecipientEncoded: 'c3lsdmF6aGFuZ0BjaGluYXRleG55LmNvbQ==',
   brandFont: '-apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif'
